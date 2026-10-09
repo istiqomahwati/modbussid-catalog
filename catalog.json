@@ -1,0 +1,754 @@
+{
+  "version": 2,
+  "updatedAt": "2026-10-09",
+  "contactEmail": "",
+  "categories": [
+    {
+      "id": "truk",
+      "name": "Truk"
+    },
+    {
+      "id": "bus",
+      "name": "Bus"
+    },
+    {
+      "id": "travel",
+      "name": "Mobil Travel"
+    },
+    {
+      "id": "mobil",
+      "name": "Mobil"
+    },
+    {
+      "id": "motor",
+      "name": "Motor"
+    },
+    {
+      "id": "map",
+      "name": "Map"
+    }
+  ],
+  "mods": [
+    {
+      "id": "truk-trailer",
+      "title": "Truk Trailer",
+      "category": "truk",
+      "creator": "Maleo (Kernet)",
+      "official": true,
+      "description": "Semi trailer truk bergaya Amerika. Mod resmi dari Maleo, developer Bus Simulator Indonesia.",
+      "images": [
+        "https://bussimulator.id/wp-content/uploads/edd/2021/06/TruckTrailer_Front.jpg",
+        "https://bussimulator.id/wp-content/uploads/edd/2021/06/TruckTrailer_Back.jpg"
+      ],
+      "tags": [
+        "trailer",
+        "truk",
+        "resmi"
+      ],
+      "sourceUrl": "https://bussimulator.id/download/vehicle-mod/truk-trailer/",
+      "files": [
+        {
+          "label": "File Mod",
+          "kind": "mod",
+          "fileName": "truk-trailer.bussidmod",
+          "sizeBytes": 11659519,
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541340&file=1"
+        },
+        {
+          "label": "Livery",
+          "kind": "livery",
+          "fileName": "truk-trailer-livery.png",
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541340&file=2"
+        }
+      ],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "truk-gandeng",
+      "title": "Truk Gandeng",
+      "category": "truk",
+      "creator": "Maleo (Kernet)",
+      "official": true,
+      "description": "Truk dengan trailer ganda. Untuk mengendalikan truk ini dibutuhkan kemampuan dan jam terbang yang tinggi.",
+      "images": [
+        "https://bussimulator.id/wp-content/uploads/edd/2021/06/TruckGandeng_Front.jpg",
+        "https://bussimulator.id/wp-content/uploads/edd/2021/06/TruckGandeng_Back.jpg"
+      ],
+      "tags": [
+        "gandeng",
+        "trailer",
+        "truk",
+        "resmi"
+      ],
+      "sourceUrl": "https://bussimulator.id/download/vehicle-mod/truk-gandeng/",
+      "files": [
+        {
+          "label": "File Mod",
+          "kind": "mod",
+          "fileName": "truk-gandeng.bussidmod",
+          "sizeBytes": 10786693,
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541333&file=1"
+        },
+        {
+          "label": "Livery",
+          "kind": "livery",
+          "fileName": "truk-gandeng-livery.png",
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541333&file=2"
+        }
+      ],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "truk-bak-kayu",
+      "title": "Truk Bak Kayu",
+      "category": "truk",
+      "creator": "Maleo (Kernet)",
+      "official": true,
+      "description": "Truk bak kayu yang banyak ditemukan di Indonesia, salah satu alat transportasi barang dan ternak terpopuler.",
+      "images": [
+        "https://bussimulator.id/wp-content/uploads/edd/2018/12/Truck_Front.jpg",
+        "https://bussimulator.id/wp-content/uploads/edd/2018/12/Truck_Back.jpg"
+      ],
+      "tags": [
+        "bak kayu",
+        "truk",
+        "resmi"
+      ],
+      "sourceUrl": "https://bussimulator.id/download/vehicle-mod/truk-bak-kayu/",
+      "files": [
+        {
+          "label": "File Mod",
+          "kind": "mod",
+          "fileName": "truk-bak-kayu.bussidmod",
+          "sizeBytes": 4540792,
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541136&file=1"
+        },
+        {
+          "label": "Livery",
+          "kind": "livery",
+          "fileName": "truk-bak-kayu-livery.png",
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541136&file=2"
+        }
+      ],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "mobil-pick-up",
+      "title": "Mobil Pick Up",
+      "category": "mobil",
+      "creator": "Maleo (Kernet)",
+      "official": true,
+      "description": "Mobil pick up sangat populer sebagai alat transportasi dengan daya angkut menengah ke bawah.",
+      "images": [
+        "https://bussimulator.id/wp-content/uploads/edd/2018/12/Pickup_Front.jpg",
+        "https://bussimulator.id/wp-content/uploads/edd/2018/12/Pickup_Back.jpg"
+      ],
+      "tags": [
+        "pick up",
+        "mobil",
+        "resmi"
+      ],
+      "sourceUrl": "https://bussimulator.id/download/vehicle-mod/mobil-pick-up/",
+      "files": [
+        {
+          "label": "File Mod",
+          "kind": "mod",
+          "fileName": "pickup.bussidmod",
+          "sizeBytes": 4520514,
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541140&file=1"
+        },
+        {
+          "label": "Livery",
+          "kind": "livery",
+          "fileName": "pickup-livery.png",
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541140&file=2"
+        }
+      ],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "angkot",
+      "title": "Mobil Angkot",
+      "category": "travel",
+      "creator": "Maleo (Kernet)",
+      "official": true,
+      "description": "Angkot adalah salah satu transportasi publik paling populer di Indonesia, dengan jangkauan operasi yang paling luas.",
+      "images": [
+        "https://bussimulator.id/wp-content/uploads/edd/2018/12/Angkot_Front.jpg",
+        "https://bussimulator.id/wp-content/uploads/edd/2018/12/Angkot_Back.jpg"
+      ],
+      "tags": [
+        "angkot",
+        "angkutan",
+        "resmi"
+      ],
+      "sourceUrl": "https://bussimulator.id/download/vehicle-mod/angkot/",
+      "files": [
+        {
+          "label": "File Mod",
+          "kind": "mod",
+          "fileName": "angkot.bussidmod",
+          "sizeBytes": 7363564,
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541095&file=1"
+        },
+        {
+          "label": "Livery",
+          "kind": "livery",
+          "fileName": "angkot-livery.png",
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541095&file=2"
+        }
+      ],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "map-kelok-naga",
+      "title": "Map Kelok Naga",
+      "category": "map",
+      "creator": "Maleo",
+      "official": true,
+      "description": "Mod map pertama di BUSSID. Sinopsis: berangkat pulang sehabis KKN di Desa Kelok Naga. Apakah kita bisa pulang dengan selamat?",
+      "images": [
+        "https://bussimulator.id/wp-content/uploads/edd/2022/08/Thumbnail_Secene.jpg"
+      ],
+      "tags": [
+        "map",
+        "peta",
+        "resmi"
+      ],
+      "sourceUrl": "https://bussimulator.id/download/map-mod/kelok-naga/",
+      "files": [
+        {
+          "label": "File Mod",
+          "kind": "mod",
+          "fileName": "kelok_naga.bussidmod",
+          "sizeBytes": 18491366,
+          "resolver": "bussid_official",
+          "url": "https://bussimulator.id/mulai-unduh-livery/?did=541357&file=1"
+        }
+      ],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "jb3-uhd-volvo-b11r",
+      "title": "JB3+ UHD Volvo B11R",
+      "category": "bus",
+      "creator": "MD Creation",
+      "official": false,
+      "description": "Bus Jetbus 3+ Ultra High Deck dengan sasis Volvo B11R.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/05/MOD-BUSSID-JB3-UHD-VOLVO-B11R.jpeg"
+      ],
+      "tags": [
+        "jetbus",
+        "uhd",
+        "volvo"
+      ],
+      "sourceUrl": "https://modbussid.co.id/bus/jb3-uhd-volvo-b11r-by-md-creation/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "avante-h9",
+      "title": "Avante H9",
+      "category": "bus",
+      "creator": "Sigit Dwi",
+      "official": false,
+      "description": "Bus Avante H9 karya Sigit Dwi.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/04/MOD-BUSSID-Avante-H9.jpeg"
+      ],
+      "tags": [
+        "avante",
+        "shd"
+      ],
+      "sourceUrl": "https://modbussid.co.id/bus/avante-h9-by-sigit-dwi/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "jb2-shd-hino-rk8",
+      "title": "JB2 SHD+ Adiputro Hino RK8",
+      "category": "bus",
+      "creator": "ZTOM",
+      "official": false,
+      "description": "Bus Jetbus 2 SHD+ Adiputro dengan sasis Hino RK8.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-JB2-SHD-Adiputro-Hino-RK8.jpeg"
+      ],
+      "tags": [
+        "jetbus",
+        "shd",
+        "hino"
+      ],
+      "sourceUrl": "https://modbussid.co.id/bus/jb2-shd-adiputro-hino-rk8-by-ztom/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "legacy-suite-class",
+      "title": "Legacy Suite Class",
+      "category": "bus",
+      "creator": "Sigit Dwi",
+      "official": false,
+      "description": "Bus Legacy kelas suite (sleeper) karya Sigit Dwi.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/10/Legacy-Suite-Class-by-Sigit-Dwi.png"
+      ],
+      "tags": [
+        "legacy",
+        "sleeper",
+        "suite"
+      ],
+      "sourceUrl": "https://modbussid.co.id/bus/legacy-suite-class-by-sigit-dwi/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "canter-tawakal-5",
+      "title": "Canter New Tawakal 5 Full Strobo",
+      "category": "truk",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Truk Canter Tawakal 5 dengan lampu strobo penuh.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Canter-New-Tawakal-5-Full-Strobo.jpeg"
+      ],
+      "tags": [
+        "canter",
+        "strobo",
+        "oleng"
+      ],
+      "sourceUrl": "https://modbussid.co.id/truck/canter-new-tawakal-5-full-strobo/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "hino-500-tronton",
+      "title": "Truck Hino 500 Tronton",
+      "category": "truk",
+      "creator": "Budesign",
+      "official": false,
+      "description": "Truk tronton Hino 500 karya Budesign.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2022/11/MOD-BUSSID-Truck-Hino-500-Tronton-by-Budesign.jpg"
+      ],
+      "tags": [
+        "hino",
+        "tronton"
+      ],
+      "sourceUrl": "https://modbussid.co.id/truck/hino-500-tronton-budesign/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "fuso-tribal-kayu",
+      "title": "Fuso Tribal Muatan Kayu",
+      "category": "truk",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Truk Fuso livery tribal dengan muatan kayu.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Fuso-Tribal-Muatan-Kayu.jpeg"
+      ],
+      "tags": [
+        "fuso",
+        "muatan kayu"
+      ],
+      "sourceUrl": "https://modbussid.co.id/truck/fuso-tribal-muatan-kayu/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "xpander",
+      "title": "Mitsubishi Xpander",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "MPV Mitsubishi Xpander dengan animasi, cocok untuk travel antar kota.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2021/06/MOD-BUSSID-Mobil-Mitsubishi-Xpander-1.jpeg"
+      ],
+      "tags": [
+        "xpander",
+        "mpv",
+        "travel"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/mitsubishi-xpander-animasi/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "toyota-alphard",
+      "title": "Toyota Alphard",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "MPV mewah Toyota Alphard untuk travel eksekutif.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Toyota-Alphard.jpeg"
+      ],
+      "tags": [
+        "alphard",
+        "mpv",
+        "travel"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/toyota-alphard/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "isuzu-mu-x",
+      "title": "Isuzu MU-X",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "SUV Isuzu MU-X tujuh penumpang.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/10/Download-MOD-BUSSID-Isuzu-MU-X.jpeg"
+      ],
+      "tags": [
+        "isuzu",
+        "suv",
+        "travel"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/isuzu-mu-x/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "toyota-rush-2019",
+      "title": "Toyota Rush 2019",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "SUV Toyota Rush 2019, pas untuk travel keluarga.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Mobil-Toyota-Rush-2019.jpeg"
+      ],
+      "tags": [
+        "rush",
+        "suv",
+        "travel"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/toyota-rush-2019/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "honda-crv-prestige",
+      "title": "Honda CR-V Prestige",
+      "category": "mobil",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "SUV Honda CR-V Prestige.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Mobil-Honda-CR-V-Prestige-1.jpeg"
+      ],
+      "tags": [
+        "honda",
+        "crv",
+        "suv"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/honda-cr-v-prestige/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "hiace-commuter",
+      "title": "Toyota Hiace Commuter",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Minibus Toyota Hiace Commuter, andalan travel antar kota.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Toyota-Hiace-Commuter-1.jpeg"
+      ],
+      "tags": [
+        "hiace",
+        "travel",
+        "minibus"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/toyota-hiace-commuter/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "hiace-2012",
+      "title": "Toyota Hiace 2012",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Toyota Hiace generasi 2012 untuk travel dan shuttle.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Mobil-Toyota-Hiace-2012.jpeg"
+      ],
+      "tags": [
+        "hiace",
+        "travel",
+        "shuttle"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/toyota-hiace-2012/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "innova-reborn",
+      "title": "Toyota Innova Reborn",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Toyota Kijang Innova Reborn, MPV favorit travel.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/09/MOD-BUSSID-Mobil-Toyota-Innova-Reborn.jpeg"
+      ],
+      "tags": [
+        "innova",
+        "travel",
+        "mpv"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/toyota-innova-reborn/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "innova-2013",
+      "title": "Toyota Kijang Innova 2013",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Toyota Kijang Innova 2013 untuk travel antar kota.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Toyota-Kijang-Innova-2013.jpeg"
+      ],
+      "tags": [
+        "innova",
+        "kijang",
+        "travel"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/toyota-kijang-innova-2013/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "avanza-veloz-2012",
+      "title": "Toyota Avanza Veloz 2012",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Toyota Avanza Veloz 2012, MPV sejuta umat untuk travel.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/11/MOD-BUSSID-Mobil-Toyota-Avanza-Veloz-2012.jpeg"
+      ],
+      "tags": [
+        "avanza",
+        "veloz",
+        "travel"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/toyota-avanza-veloz-2012/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "apv-new-luxury",
+      "title": "Suzuki APV New Luxury",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Suzuki APV Luxury untuk travel dan angkutan keluarga.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Mobil-Suzuki-APV-New-Luxury-1.jpeg"
+      ],
+      "tags": [
+        "apv",
+        "suzuki",
+        "travel"
+      ],
+      "sourceUrl": "https://modbussid.co.id/mobil/suzuki-apv-new-luxury/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "elf-nlr-55",
+      "title": "Isuzu Elf NLR 55",
+      "category": "travel",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Minibus Isuzu Elf NLR 55, travel dan angkutan pedesaan.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/10/Isuzu-Elf-NLR-55.jpg"
+      ],
+      "tags": [
+        "elf",
+        "isuzu",
+        "minibus",
+        "travel"
+      ],
+      "sourceUrl": "https://modbussid.co.id/bus/isuzu-elf-nlr-55/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "elf-giga-pandawa-87",
+      "title": "Minibus Isuzu Elf Giga Pandawa 87",
+      "category": "bus",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Minibus Isuzu Elf Giga livery Pandawa 87.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/10/Minibus-Isuzu-ELF-Giga-Pandawa-87.jpeg"
+      ],
+      "tags": [
+        "elf",
+        "minibus",
+        "pandawa 87"
+      ],
+      "sourceUrl": "https://modbussid.co.id/bus/minibus-isuzu-elf-giga-pandawa-87/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "jetbus3-sudiro-tungga-jaya",
+      "title": "Jetbus 3+ SHD Sudiro Tungga Jaya",
+      "category": "bus",
+      "creator": "MD Creation",
+      "official": false,
+      "description": "Jetbus 3+ SHD dengan air suspension, livery Sudiro Tungga Jaya.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Jetbus-3-SHD-Sudiro-Tungga-Jaya-Air-Suspension.jpeg"
+      ],
+      "tags": [
+        "jetbus",
+        "shd",
+        "sudiro tungga jaya"
+      ],
+      "sourceUrl": "https://modbussid.co.id/bus/jetbus-3-shd-sudiro-tungga-jaya-air-suspension-by-md-creation/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "sinar-dempo-jb3-scania",
+      "title": "Bus Sinar Dempo JB3 Scania",
+      "category": "bus",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Bus Jetbus 3 Scania livery PO Sinar Dempo.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2023/05/Bus-Sinar-Dempo-JB3-Scania.jpeg"
+      ],
+      "tags": [
+        "jetbus",
+        "scania",
+        "sinar dempo"
+      ],
+      "sourceUrl": "https://modbussid.co.id/bus/bus-sinar-dempo-jb3-scania/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "canter-kanjeng-mami",
+      "title": "Truck Canter New Kanjeng Mami",
+      "category": "truk",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Truk Canter gaya Kanjeng Mami yang populer.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Canter-New-Kanjeng-Mami.jpeg"
+      ],
+      "tags": [
+        "canter",
+        "kanjeng mami",
+        "oleng"
+      ],
+      "sourceUrl": "https://modbussid.co.id/truck/canter-new-kanjeng-mami/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "volvo-vnl-pertamina",
+      "title": "Truck Volvo VNL 78 Pertamina Trailer",
+      "category": "truk",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Truk trailer tangki Volvo VNL 78 livery Pertamina.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2021/05/MOD-BUSSID-Truck-Volvo-VNL-78-Pertamina-Trailer.jpeg"
+      ],
+      "tags": [
+        "volvo",
+        "trailer",
+        "tangki",
+        "pertamina"
+      ],
+      "sourceUrl": "https://modbussid.co.id/truck/volvo-vnl-78-pertamina-trailer/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "honda-astrea-legenda",
+      "title": "Honda Astrea Legenda",
+      "category": "motor",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Motor bebek legendaris Honda Astrea Legenda.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/11/MOD-BUSSID-Motor-Honda-Astrea-Legenda.jpeg"
+      ],
+      "tags": [
+        "honda",
+        "astrea",
+        "bebek"
+      ],
+      "sourceUrl": "https://modbussid.co.id/motor/honda-astrea-legenda/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "mx-king-150",
+      "title": "Yamaha MX King 150",
+      "category": "motor",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Motor bebek sport Yamaha MX King 150.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2022/07/Motor-MX-King-150.jpeg"
+      ],
+      "tags": [
+        "yamaha",
+        "mx king",
+        "bebek"
+      ],
+      "sourceUrl": "https://modbussid.co.id/motor/mx-king-150/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    },
+    {
+      "id": "honda-cbr-150",
+      "title": "Honda CBR 150 Knalpot Racing",
+      "category": "motor",
+      "creator": "Tidak diketahui",
+      "official": false,
+      "description": "Motor sport Honda CBR 150 dengan knalpot racing.",
+      "images": [
+        "https://modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Honda-CBR-150-Knalpot-Racing.jpeg"
+      ],
+      "tags": [
+        "honda",
+        "cbr",
+        "sport"
+      ],
+      "sourceUrl": "https://modbussid.co.id/motor/honda-cbr-150-knalpot-racing/",
+      "files": [],
+      "addedAt": "2026-10-09"
+    }
+  ]
+}
